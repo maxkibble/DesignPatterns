@@ -1,5 +1,6 @@
-package singleton;
+package singleton.java;
 
+// 饿汉模式
 public class Singleton {
     private String name = "";
     private Singleton() {}
